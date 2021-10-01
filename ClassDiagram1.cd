@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EnemyAI">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABCAAAAAiAAAAAEIAACAAACAAAAAwEAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Elang">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Elang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemGFX">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemGFX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fall">
+    <Position X="8.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GantiScene">
+    <Position X="6.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GantiScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HelpUI">
+    <Position X="15.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\HelpUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Musuh">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAAAAAEAAAAAAAAAAAAAAAIAQAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Musuh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kodok">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQQAAEAAKAAAAAAAAAAIAAAABAAAAAEAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Kodok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIghScoreUI">
+    <Position X="10.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQCAAAAAAAAAAAIIAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\HIghScoreUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="15.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAACAKAAAAQAAAAIAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewPause">
+    <Position X="13.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAACAAAQAQAAAAAAAAAAAAAAgAACQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\NewPause.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatrolAI">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAACAAAAAEAAQAAAAAAVAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\PatrolAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PermanentUI">
+    <Position X="15.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBACAAAAAAAAAAAAEACAAAAAAAAAQAAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\PermanentUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="17.25" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PlayerController.State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\PlayerController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQQAIBAAqACgAAEJBAAAAggAFAEgQBEQQggAAAEAEg=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="possum">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAQAAAAAAKACABAAAAAAAAAAAEAAAQAEAiAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\possum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spawntrigger">
+    <Position X="13.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\spawntrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tangga">
+    <Position X="12" Y="7.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Tangga.LadderPart" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Tangga.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAACAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tangga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="timerCountdown">
+    <Position X="13.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAACAAAAAAACAAAAAAAAAAgAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\timerCountdown.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
